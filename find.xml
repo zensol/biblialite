@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\app\src\main\java\com\zensolsoft\biblialite\MainActivity.java [app]'" />
-    <option name="defaultScopeName" value="File '...\app\src\main\java\com\zensolsoft\biblialite\MainActivity.java [app]'" />
-    <option name="SEARCH_SCOPE" value="File '...\app\src\main\java\com\zensolsoft\biblialite\MainActivity.java [app]'" />
+    <option name="customScope" value="File '...\app\src\main\java\com\example\android\sunshine\utilities\SunshineWeatherUtils.java [app]'" />
+    <option name="defaultScopeName" value="File '...\app\src\main\java\com\example\android\sunshine\utilities\SunshineWeatherUtils.java [app]'" />
+    <option name="SEARCH_SCOPE" value="File '...\app\src\main\java\com\example\android\sunshine\utilities\SunshineWeatherUtils.java [app]'" />
   </component>
 </application>
